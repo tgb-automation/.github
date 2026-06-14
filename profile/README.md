@@ -1,23 +1,29 @@
 # TGB Automation
 
-Rechner und Wissensbasis für Elektrotechnik. Schaltschrankbau, Spannungsabfall, Kabelquerschnitt, Schleifenimpedanz, Selektivität.
+**Kostenlose, physikbasierte Online-Rechner für die Elektrotechnik.**
 
-Standort: Filderstadt, Deutschland.
+🔗 **[tgb-automation.de](https://tgb-automation.de)**
 
-## Was wir machen
+Werbefreie Rechner mit **offengelegten Formeln** und PDF-Berechnungsprotokoll – für
+Elektrofachkräfte, Schaltschrankbauer, Planer und technisch interessierte Privatleute.
+Keine Black Box, keine Tracker, keine Cookies.
 
-Wir bauen physikalisch hergeleitete, transparente Rechner für die tägliche Arbeit in der Elektrotechnik — Schaltschrankbau, Hausverkabelung, Wallbox, Photovoltaik. Jede Berechnung mit sichtbarer Formel, sichtbaren Werten und sichtbarem Ergebnis.
+### Rechner
 
-→ Rechner und Lexikon: **https://tgb-automation.de**
+- **Kabelquerschnitt** – erforderlicher Querschnitt nach Strom, Länge und Verlegeart
+- **Spannungsfall** – ΔU für AC1 / AC3 / DC mit temperaturabhängiger Leitfähigkeit
+- **Schleifenimpedanz** – Z_v nach DIN VDE 0100-410
+- **Absicherung** – Leitungsschutz-Koordination (LS-Charakteristik B/C/D)
+- **Schaltschrank-Klimatisierung & -Heizung** – eigenes Wärmebilanz-Modell (Q = k·A·ΔT)
+- **Balkonkraftwerk**, **Wärmepumpe**, **Stromkosten** u. v. m.
 
-## Open Source
+→ Alle Rechner: **[tgb-automation.de](https://tgb-automation.de)**
 
-Wir kuratieren öffentlich verfügbare Ressourcen, die in der Praxis fehlen:
+### Mehr
 
-- **[awesome-elektrotechnik-de](https://github.com/tgb-automation/awesome-elektrotechnik-de)** — Kuratierte Liste deutschsprachiger Ressourcen für Elektrofachkräfte (Normen-Verzeichnisse, Datenblatt-Quellen, kostenlose Rechner, Lernmaterial).
+- 📚 **Elektrotechnik-Lexikon** mit Formel-Referenzen → [tgb-automation.de](https://tgb-automation.de)
+- ⭐ **Kuratierte Ressourcen-Liste** → [awesome-elektrotechnik-de](https://github.com/tgb-automation/awesome-elektrotechnik-de)
 
-Unsere Rechner selbst bleiben proprietär — die physikalischen Modelle und Validierungs-Testsuiten gehören nicht in ein Public-Repo.
+---
 
-## Kontakt
-
-Über die Site: https://tgb-automation.de/impressum
+Jeder Rechner legt den Rechenweg transparent offen – Formel, Eingangswerte, Ergebnis.
